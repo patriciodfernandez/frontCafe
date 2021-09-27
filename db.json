@@ -1,0 +1,88 @@
+{
+  "cafeteria": [
+    {
+      "nombreProducto": "Bizcochitoss",
+      "precioProducto": "10",
+      "categoria": "salado",
+      "id": 3
+    },
+    {
+      "nombreProducto": "cafe",
+      "precioProducto": "60",
+      "categoria": "bebida-caliente",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "nombreProducto": "capuccino",
+      "precioProducto": "66",
+      "categoria": "bebida-caliente",
+      "id": 7
+    },
+    {
+      "nombreProducto": "capuccino",
+      "precioProducto": "66",
+      "categoria": "bebida-caliente",
+      "id": 8
+    },
+    {
+      "nombreProducto": "tostado jamon y quesitoo",
+      "precioProducto": "160",
+      "categoria": "sandwich",
+      "id": 9
+    },
+    {
+      "nombreProducto": "tostado ternera",
+      "precioProducto": "190",
+      "categoria": "sandwich",
+      "id": 10
+    },
+    {
+      "nombreProducto": "tostado de ternera",
+      "precioProducto": "180",
+      "categoria": "sandwich",
+      "id": 11
+    },
+    {
+      "nombreProducto": "bizcochos dulces ",
+      "precioProducto": "200",
+      "categoria": "dulce",
+      "id": 12
+    },
+    {
+      "nombreProducto": "cafe coñac",
+      "precioProducto": "120",
+      "categoria": "bebida-caliente",
+      "id": 13
+    },
+    {
+      "nombreProducto": "facturas con crema x3 ",
+      "precioProducto": "100",
+      "categoria": "dulce",
+      "id": 14
+    },
+    {
+      "nombreProducto": "Tortillas x6",
+      "precioProducto": "140",
+      "categoria": "salado",
+      "id": 15
+    },
+    {
+      "nombreProducto": "tarta manzana",
+      "precioProducto": "180",
+      "categoria": "dulce",
+      "id": 16
+    },
+    {
+      "nombreProducto": "Papas fritas ",
+      "precioProducto": "140",
+      "categoria": "salado",
+      "id": 17
+    }
+  ]
+}
